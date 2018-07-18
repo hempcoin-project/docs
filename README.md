@@ -1,0 +1,2 @@
+# docs
+hempcoin blockchain documentation
